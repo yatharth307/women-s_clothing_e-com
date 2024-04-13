@@ -8,10 +8,17 @@ Privacy Considerations: Ensure that any analysis complies with privacy laws and 
 
 # Analysis Recommendations:
 Conduct exploratory data analysis to identify trends and patterns.
+
 Perform text mining to explore common words in positive and negative reviews.
+
 Use sentiment analysis to understand customer sentiment across different categories, subcategories, products by location, and age groups.
+
 Develop predictive models to determine factors influencing product recommendations and customer ratings.
+
 Implement topic modeling to uncover latent topics in review texts.
+
 Ensure data integrity by checking for missing values and potential outliers.
+
 Consider normalizing text data before performing text mining and sentiment analysis.
+
 Be aware of potential biases in customer reviews and ratings, which could affect analysis and model performance.
